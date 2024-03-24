@@ -1,0 +1,48 @@
+* {
+  font-family: 'Roboto';
+}
+.notifications-container-success {
+  display: flex;
+  flex-direction: row;
+}
+.icon {
+  height: 30px;
+  width: 30px;
+}
+.success-icon {
+  color: #2dca73;
+}
+.heading {
+  height: 40px;
+  width: 40px;
+}
+.success-heading {
+  color: #2dca73;
+}
+.description {
+  color: #64748b;
+}
+.error-icon {
+  color: #ff0b37;
+}
+.error-heading {
+  color: #ff0b37;
+}
+.warning-icon {
+  color: #ffb800;
+}
+.warning-heading {
+  color: #ffb800;
+}
+.info-icon {
+  color: #0f81e0;
+}
+.info-heading {
+  color: #0f81e0;
+}
+.alert-notifications-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}

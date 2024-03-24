@@ -1,0 +1,32 @@
+.each-notification-main-container {
+  box-shadow: 2px 2px 5px 2px rgba(0, 0, 0, 0.3);
+  margin: 10px;
+}
+.each-notification-item-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  padding: 10px;
+}
+.close-form-icon {
+  height: 30px;
+  width: 30px;
+}
+.close-icon-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin-top: 20px;
+  margin-left: 20px;
+}
+.notification-header-description-container {
+  display: flex;
+  flex-direction: row;
+  width: 90%;
+}
+.notification-icon-container {
+  display: flex;
+  margin-right: 20px;
+  padding-top: 25px;
+}
